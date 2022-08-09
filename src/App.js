@@ -1,4 +1,3 @@
-import './App.css';
 import Button from './components/Button';
 import Field from './components/Field';
 import ManipulationPanel from './components/ManipulationPanel';
